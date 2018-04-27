@@ -1,0 +1,8 @@
+Download Xcode for free!
+let awesomeness = true
+let programmingLanguage = “Swift”
+Learning Swift is fun!
+“[Swift] totally rules.” - Craig Federighi
+Not endorsed by Apple!
+print(“Hello, world!”)
+Try Swift Playgrounds for iPad!
